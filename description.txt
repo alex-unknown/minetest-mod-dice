@@ -1,1 +1,0 @@
-Adds a 6 sided die.

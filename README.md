@@ -1,1 +1,0 @@
-# minetest-mod-dice
